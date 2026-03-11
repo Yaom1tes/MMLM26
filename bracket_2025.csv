@@ -1,0 +1,61 @@
+Round,Region,Team1,Team2,PredictedWinner,WinProbability
+Round of 64,West,Duke,Mt St Mary's,Duke,0.981
+Round of 64,West,Mississippi St,Baylor,Mississippi St,0.54
+Round of 64,West,Oregon,Liberty,Oregon,0.691
+Round of 64,West,Arizona,Akron,Arizona,0.847
+Round of 64,West,BYU,VCU,VCU,0.505
+Round of 64,West,Wisconsin,Montana,Wisconsin,0.965
+Round of 64,West,St Mary's CA,Vanderbilt,St Mary's CA,0.786
+Round of 64,West,Alabama,Robert Morris,Alabama,0.899
+Round of 32,West,Duke,Mississippi St,Duke,0.814
+Round of 32,West,Oregon,Arizona,Arizona,0.653
+Round of 32,West,VCU,Wisconsin,VCU,0.534
+Round of 32,West,St Mary's CA,Alabama,St Mary's CA,0.602
+Sweet 16,West,Duke,Arizona,Duke,0.801
+Sweet 16,West,VCU,St Mary's CA,VCU,0.546
+Elite 8,West,Duke,VCU,Duke,0.567
+Round of 64,East,Houston,SIUE,Houston,0.973
+Round of 64,East,Gonzaga,Georgia,Gonzaga,0.574
+Round of 64,East,Clemson,McNeese St,Clemson,0.723
+Round of 64,East,Purdue,High Point,Purdue,0.819
+Round of 64,East,Illinois,Xavier,Illinois,0.513
+Round of 64,East,Kentucky,Troy,Kentucky,0.883
+Round of 64,East,UCLA,Utah St,UCLA,0.741
+Round of 64,East,Tennessee,Wofford,Tennessee,0.968
+Round of 32,East,Houston,Gonzaga,Houston,0.814
+Round of 32,East,Clemson,Purdue,Purdue,0.6
+Round of 32,East,Illinois,Kentucky,Kentucky,0.536
+Round of 32,East,UCLA,Tennessee,Tennessee,0.619
+Sweet 16,East,Houston,Purdue,Houston,0.679
+Sweet 16,East,Kentucky,Tennessee,Tennessee,0.762
+Elite 8,East,Houston,Tennessee,Houston,0.696
+Round of 64,South,Auburn,St Francis PA,Auburn,0.965
+Round of 64,South,Louisville,Creighton,Creighton,0.656
+Round of 64,South,Michigan,UC San Diego,UC San Diego,0.551
+Round of 64,South,Texas A&M,Yale,Texas A&M,0.868
+Round of 64,South,Mississippi,San Diego St,Mississippi,0.574
+Round of 64,South,Iowa St,Lipscomb,Iowa St,0.947
+Round of 64,South,Marquette,New Mexico,Marquette,0.698
+Round of 64,South,Michigan St,Bryant,Michigan St,0.842
+Round of 32,South,Auburn,Creighton,Auburn,0.878
+Round of 32,South,UC San Diego,Texas A&M,Texas A&M,0.737
+Round of 32,South,Mississippi,Iowa St,Iowa St,0.593
+Round of 32,South,Marquette,Michigan St,Marquette,0.538
+Sweet 16,South,Auburn,Texas A&M,Auburn,0.804
+Sweet 16,South,Iowa St,Marquette,Iowa St,0.624
+Elite 8,South,Auburn,Iowa St,Auburn,0.674
+Round of 64,Midwest,Florida,Norfolk St,Florida,0.982
+Round of 64,Midwest,Connecticut,Oklahoma,Connecticut,0.737
+Round of 64,Midwest,Memphis,Colorado St,Memphis,0.526
+Round of 64,Midwest,Maryland,Grand Canyon,Maryland,0.898
+Round of 64,Midwest,Missouri,Drake,Drake,0.537
+Round of 64,Midwest,Texas Tech,UNC Wilmington,Texas Tech,0.912
+Round of 64,Midwest,Kansas,Arkansas,Kansas,0.624
+Round of 64,Midwest,St John's,NE Omaha,St John's,0.974
+Round of 32,Midwest,Florida,Connecticut,Florida,0.856
+Round of 32,Midwest,Memphis,Maryland,Maryland,0.829
+Round of 32,Midwest,Drake,Texas Tech,Texas Tech,0.699
+Round of 32,Midwest,Kansas,St John's,St John's,0.867
+Sweet 16,Midwest,Florida,Maryland,Florida,0.589
+Sweet 16,Midwest,Texas Tech,St John's,St John's,0.502
+Elite 8,Midwest,Florida,St John's,Florida,0.685

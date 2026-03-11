@@ -1,0 +1,33 @@
+2025 Blind Test Accuracy (v3)
+Tuned on 2018–2024, tested on 2025
+
+Best hyperparams: {'n_estimators': 800, 'max_depth': 5, 'learning_rate': 0.01, 'subsample': 0.8, 'colsample_bytree': 0.9, 'min_child_weight': 5, 'gamma': 0}
+Mean CV accuracy (2018-2024): 0.696 ± 0.024
+
+2025 blind test: 51/67 (76.1%)
+
+Year-by-year validation:
+  2018: 0.716
+  2019: 0.731
+  2020: 0.682
+  2021: 0.694
+  2022: 0.694
+  2023: 0.657
+
+Upsets missed (16):
+  WRONG: Mt St Mary's beat American Univ — we predicted American Univ
+  WRONG: Xavier beat Texas — we predicted Texas
+  WRONG: Arkansas beat Kansas — we predicted Kansas
+  WRONG: BYU beat VCU — we predicted VCU
+  WRONG: McNeese St beat Clemson — we predicted Clemson
+  WRONG: Michigan beat UC San Diego — we predicted UC San Diego
+  WRONG: Baylor beat Mississippi St — we predicted Mississippi St
+  WRONG: Colorado St beat Memphis — we predicted Memphis
+  WRONG: New Mexico beat Marquette — we predicted Marquette
+  WRONG: Arkansas beat St John's — we predicted St John's
+  WRONG: Michigan beat Texas A&M — we predicted Texas A&M
+  WRONG: Alabama beat St Mary's CA — we predicted St Mary's CA
+  WRONG: Mississippi beat Iowa St — we predicted Iowa St
+  WRONG: Alabama beat BYU — we predicted BYU
+  WRONG: Florida beat Auburn — we predicted Auburn
+  WRONG: Florida beat Houston — we predicted Houston

@@ -1,0 +1,123 @@
+MARCH MADNESS 2025 BRACKET PREDICTIONS
+Model CV Accuracy: 0.936
+
+========================================
+  WEST REGION
+========================================
+
+  Round of 64:
+    Duke vs Mt St Mary's  →  Duke (100%)
+    Mississippi St vs Baylor  →  Mississippi St (64%)
+    Oregon vs Liberty  →  Oregon (98%)
+    Arizona vs Akron  →  Arizona (99%)
+    BYU vs VCU  →  BYU (93%)
+    Wisconsin vs Montana  →  Wisconsin (100%)
+    St Mary's CA vs Vanderbilt  →  St Mary's CA (97%)
+    Alabama vs Robert Morris  →  Alabama (99%)
+
+  Round of 32:
+    Duke vs Mississippi St  →  Duke (99%)
+    Oregon vs Arizona  →  Arizona (55%)
+    BYU vs Wisconsin  →  BYU (92%)
+    St Mary's CA vs Alabama  →  St Mary's CA (81%)
+
+  Sweet 16:
+    Duke vs Arizona  →  Duke (98%)
+    BYU vs St Mary's CA  →  BYU (63%)
+
+  Elite 8:
+    Duke vs BYU  →  Duke (99%)
+
+========================================
+  EAST REGION
+========================================
+
+  Round of 64:
+    Houston vs SIUE  →  Houston (100%)
+    Gonzaga vs Georgia  →  Gonzaga (92%)
+    Clemson vs McNeese St  →  Clemson (98%)
+    Purdue vs High Point  →  Purdue (98%)
+    Illinois vs Xavier  →  Illinois (97%)
+    Kentucky vs Troy  →  Kentucky (98%)
+    UCLA vs Utah St  →  UCLA (95%)
+    Tennessee vs Wofford  →  Tennessee (100%)
+
+  Round of 32:
+    Houston vs Gonzaga  →  Houston (97%)
+    Clemson vs Purdue  →  Clemson (68%)
+    Illinois vs Kentucky  →  Illinois (82%)
+    UCLA vs Tennessee  →  UCLA (96%)
+
+  Sweet 16:
+    Houston vs Clemson  →  Houston (96%)
+    Illinois vs UCLA  →  Illinois (63%)
+
+  Elite 8:
+    Houston vs Illinois  →  Houston (99%)
+
+========================================
+  SOUTH REGION
+========================================
+
+  Round of 64:
+    Auburn vs St Francis PA  →  Auburn (100%)
+    Louisville vs Creighton  →  Creighton (53%)
+    Michigan vs UC San Diego  →  Michigan (98%)
+    Texas A&M vs Yale  →  Texas A&M (97%)
+    Mississippi vs San Diego St  →  Mississippi (95%)
+    Iowa St vs Lipscomb  →  Iowa St (99%)
+    Marquette vs New Mexico  →  Marquette (97%)
+    Michigan St vs Bryant  →  Michigan St (99%)
+
+  Round of 32:
+    Auburn vs Creighton  →  Auburn (100%)
+    Michigan vs Texas A&M  →  Michigan (75%)
+    Mississippi vs Iowa St  →  Mississippi (89%)
+    Marquette vs Michigan St  →  Marquette (95%)
+
+  Sweet 16:
+    Auburn vs Michigan  →  Auburn (99%)
+    Mississippi vs Marquette  →  Marquette (75%)
+
+  Elite 8:
+    Auburn vs Marquette  →  Auburn (99%)
+
+========================================
+  MIDWEST REGION
+========================================
+
+  Round of 64:
+    Florida vs Norfolk St  →  Florida (100%)
+    Connecticut vs Oklahoma  →  Connecticut (89%)
+    Memphis vs Colorado St  →  Memphis (97%)
+    Maryland vs Grand Canyon  →  Maryland (99%)
+    Missouri vs Drake  →  Missouri (96%)
+    Texas Tech vs UNC Wilmington  →  Texas Tech (99%)
+    Kansas vs Arkansas  →  Kansas (94%)
+    St John's vs NE Omaha  →  St John's (100%)
+
+  Round of 32:
+    Florida vs Connecticut  →  Florida (99%)
+    Memphis vs Maryland  →  Maryland (51%)
+    Missouri vs Texas Tech  →  Missouri (93%)
+    Kansas vs St John's  →  Kansas (95%)
+
+  Sweet 16:
+    Florida vs Maryland  →  Florida (96%)
+    Missouri vs Kansas  →  Missouri (51%)
+
+  Elite 8:
+    Florida vs Missouri  →  Florida (99%)
+
+========================================
+  FINAL FOUR
+========================================
+
+  Duke vs Houston  →  Houston (69%)
+  Auburn vs Florida  →  Florida (73%)
+
+========================================
+  NATIONAL CHAMPIONSHIP
+========================================
+
+  Houston vs Florida  →  🏆 Florida (77%)
